@@ -45,16 +45,16 @@ const setResult = (data) => {
         </div>
         <div class='d-flex flex-row justify-content-between'>
           <dl>
-            <dt class="col-sm-3">Humidity</dt>
-            <dd class="col-sm-9">${data.main.humidity} %</dd>
+            <dt class="">Humidity</dt>
+            <dd class="">${data.main.humidity} %</dd>
           </dl>
           <dl>
-            <dt class="col-sm-3">Pressure</dt>
-            <dd class="col-sm-9">${data.main.pressure}</dd>
+            <dt class="">Pressure</dt>
+            <dd class="">${data.main.pressure}</dd>
           </dl>
           <dl>
-            <dt class="col-sm-3">Temperature</dt>
-            <dd class="col-sm-9">${data.main.temp} °C</dd>
+            <dt class="">Temperature</dt>
+            <dd class="">${data.main.temp} °C</dd>
           </dl>
         </div>
       </div>
