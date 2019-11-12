@@ -1,0 +1,25 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather App ",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maelfosso/microverse_js_weather_app.git"
+  },
+  "author": "Mael FOSSO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maelfosso/microverse_js_weather_app/issues"
+  },
+  "homepage": "https://github.com/maelfosso/microverse_js_weather_app#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {}
+}
