@@ -21,6 +21,8 @@ A full description of the project can be found [here](https://www.theodinproject
 
 ### Prerequisites
 
+You need to have these softwares and tools installed
+
 - Node.js
 - Yarn / NPM
 
@@ -29,19 +31,15 @@ A full description of the project can be found [here](https://www.theodinproject
 To get a local copy up and running follow these simple example steps.
 
 - Clone the repository `git clone https://github.com/maelfosso/microverse_js_weather_app`
-
 - Change your current directory `cd microverse_js_weather_app`
-
 - Install all the dependencies `yarn install`
-
 - Run either `yarn build` or `npm build`
+- Launch the app `yarn launch`
 
 
 ## Authors
 
 👤 **Mael FOSSO**
-
-- [Mael FOSSO](https://github.com/maelfosso)
 
 - GitHub: [@maelfosso](https://github.com/maelfosso)
 - Twitter: [@maelfosso](https://twitter.com/maelfosso)
@@ -57,29 +55,6 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
-
-# WEATHER APP
-
-This is the 5th project of the Main Javascript curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
-
-* The objective is to build a page with interactivity using everything learn about api
-* The project was completed using Javascript language.
-
-#### [Assignment link](https://www.theodinproject.com/courses/javascript/lessons/weather-app)
-
-Project description can be found [here](https://www.theodinproject.com/courses/javascript/lessons/weather-app)
-
-## Authors
-
-- [Mael FOSSO](https://github.com/maelfosso)
-
