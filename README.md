@@ -19,23 +19,22 @@ A full description of the project can be found [here](https://www.theodinproject
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 - Node.js
-- 
+- Yarn / NPM
 
 ### Setup
 
-### Install
+To get a local copy up and running follow these simple example steps.
 
-### Usage
+- Clone the repository `git clone https://github.com/maelfosso/microverse_js_weather_app`
 
-### Run tests
+- Change your current directory `cd microverse_js_weather_app`
 
-### Deployment
+- Install all the dependencies `yarn install`
 
+- Run either `yarn build` or `npm build`
 
 
 ## Authors
